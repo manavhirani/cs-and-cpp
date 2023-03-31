@@ -5,8 +5,7 @@
 // The angle brackets (<>) indicate that the library is a system library and is located in the 
 // standard library directory.
 
-
-
 int main() {
     std::cout << "Hello, World!\n";
 };
+
